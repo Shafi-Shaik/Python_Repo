@@ -1,0 +1,310 @@
+name,abbreviation,area_codes
+Alabama,AL,205
+Alabama,AL,251
+Alabama,AL,256
+Alabama,AL,334
+Alabama,AL,938
+Alaska,AK,907
+Arizona,AZ,480
+Arizona,AZ,520
+Arizona,AZ,602
+Arizona,AZ,623
+Arizona,AZ,928
+Arkansas,AR,479
+Arkansas,AR,501
+Arkansas,AR,870
+California,CA,209
+California,CA,213
+California,CA,310
+California,CA,323
+California,CA,408
+California,CA,415
+California,CA,424
+California,CA,442
+California,CA,510
+California,CA,530
+California,CA,559
+California,CA,562
+California,CA,619
+California,CA,626
+California,CA,628
+California,CA,650
+California,CA,657
+California,CA,661
+California,CA,669
+California,CA,707
+California,CA,714
+California,CA,747
+California,CA,760
+California,CA,805
+California,CA,818
+California,CA,831
+California,CA,858
+California,CA,909
+California,CA,916
+California,CA,925
+California,CA,949
+California,CA,951
+Colorado,CO,303
+Colorado,CO,719
+Colorado,CO,720
+Colorado,CO,970
+Connecticut,CT,203
+Connecticut,CT,475
+Connecticut,CT,860
+Connecticut,CT,959
+Delaware,DE,302
+Florida,FL,239
+Florida,FL,305
+Florida,FL,321
+Florida,FL,352
+Florida,FL,386
+Florida,FL,407
+Florida,FL,561
+Florida,FL,727
+Florida,FL,754
+Florida,FL,772
+Florida,FL,786
+Florida,FL,813
+Florida,FL,850
+Florida,FL,863
+Florida,FL,904
+Florida,FL,941
+Florida,FL,954
+Georgia,GA,229
+Georgia,GA,404
+Georgia,GA,470
+Georgia,GA,478
+Georgia,GA,678
+Georgia,GA,706
+Georgia,GA,762
+Georgia,GA,770
+Georgia,GA,912
+Hawaii,HI,808
+Idaho,ID,208
+Illinois,IL,217
+Illinois,IL,224
+Illinois,IL,309
+Illinois,IL,312
+Illinois,IL,331
+Illinois,IL,618
+Illinois,IL,630
+Illinois,IL,708
+Illinois,IL,773
+Illinois,IL,779
+Illinois,IL,815
+Illinois,IL,847
+Illinois,IL,872
+Indiana,IN,219
+Indiana,IN,260
+Indiana,IN,317
+Indiana,IN,463
+Indiana,IN,574
+Indiana,IN,765
+Indiana,IN,812
+Indiana,IN,930
+Iowa,IA,319
+Iowa,IA,515
+Iowa,IA,563
+Iowa,IA,641
+Iowa,IA,712
+Kansas,KS,316
+Kansas,KS,620
+Kansas,KS,785
+Kansas,KS,913
+Kentucky,KY,270
+Kentucky,KY,364
+Kentucky,KY,502
+Kentucky,KY,606
+Kentucky,KY,859
+Louisiana,LA,225
+Louisiana,LA,318
+Louisiana,LA,337
+Louisiana,LA,504
+Louisiana,LA,985
+Maine,ME,207
+Maryland,MD,240
+Maryland,MD,301
+Maryland,MD,410
+Maryland,MD,443
+Maryland,MD,667
+Massachusetts,MA,339
+Massachusetts,MA,351
+Massachusetts,MA,413
+Massachusetts,MA,508
+Massachusetts,MA,617
+Massachusetts,MA,774
+Massachusetts,MA,781
+Massachusetts,MA,857
+Massachusetts,MA,978
+Michigan,MI,231
+Michigan,MI,248
+Michigan,MI,269
+Michigan,MI,313
+Michigan,MI,517
+Michigan,MI,586
+Michigan,MI,616
+Michigan,MI,734
+Michigan,MI,810
+Michigan,MI,906
+Michigan,MI,947
+Michigan,MI,989
+Minnesota,MN,218
+Minnesota,MN,320
+Minnesota,MN,507
+Minnesota,MN,612
+Minnesota,MN,651
+Minnesota,MN,763
+Minnesota,MN,952
+Mississippi,MS,228
+Mississippi,MS,601
+Mississippi,MS,662
+Mississippi,MS,769
+Missouri,MO,314
+Missouri,MO,417
+Missouri,MO,573
+Missouri,MO,636
+Missouri,MO,660
+Missouri,MO,816
+Montana,MT,406
+Nebraska,NE,308
+Nebraska,NE,402
+Nebraska,NE,531
+Nevada,NV,702
+Nevada,NV,725
+Nevada,NV,775
+New Hampshire,NH,603
+New Jersey,NJ,201
+New Jersey,NJ,551
+New Jersey,NJ,609
+New Jersey,NJ,732
+New Jersey,NJ,848
+New Jersey,NJ,856
+New Jersey,NJ,862
+New Jersey,NJ,908
+New Jersey,NJ,973
+New Mexico,NM,505
+New Mexico,NM,575
+New York,NY,212
+New York,NY,315
+New York,NY,332
+New York,NY,347
+New York,NY,516
+New York,NY,518
+New York,NY,585
+New York,NY,607
+New York,NY,631
+New York,NY,646
+New York,NY,680
+New York,NY,716
+New York,NY,718
+New York,NY,845
+New York,NY,914
+New York,NY,917
+New York,NY,929
+New York,NY,934
+North Carolina,NC,252
+North Carolina,NC,336
+North Carolina,NC,704
+North Carolina,NC,743
+North Carolina,NC,828
+North Carolina,NC,910
+North Carolina,NC,919
+North Carolina,NC,980
+North Carolina,NC,984
+North Dakota,ND,701
+Ohio,OH,216
+Ohio,OH,220
+Ohio,OH,234
+Ohio,OH,330
+Ohio,OH,380
+Ohio,OH,419
+Ohio,OH,440
+Ohio,OH,513
+Ohio,OH,567
+Ohio,OH,614
+Ohio,OH,740
+Ohio,OH,937
+Oklahoma,OK,405
+Oklahoma,OK,539
+Oklahoma,OK,580
+Oklahoma,OK,918
+Oregon,OR,458
+Oregon,OR,503
+Oregon,OR,541
+Oregon,OR,971
+Pennsylvania,PA,215
+Pennsylvania,PA,267
+Pennsylvania,PA,272
+Pennsylvania,PA,412
+Pennsylvania,PA,484
+Pennsylvania,PA,570
+Pennsylvania,PA,610
+Pennsylvania,PA,717
+Pennsylvania,PA,724
+Pennsylvania,PA,814
+Pennsylvania,PA,878
+Rhode Island,RI,401
+South Carolina,SC,803
+South Carolina,SC,843
+South Carolina,SC,854
+South Carolina,SC,864
+South Dakota,SD,605
+Tennessee,TN,423
+Tennessee,TN,615
+Tennessee,TN,629
+Tennessee,TN,731
+Tennessee,TN,865
+Tennessee,TN,901
+Tennessee,TN,931
+Texas,TX,210
+Texas,TX,214
+Texas,TX,254
+Texas,TX,281
+Texas,TX,325
+Texas,TX,346
+Texas,TX,361
+Texas,TX,409
+Texas,TX,430
+Texas,TX,432
+Texas,TX,469
+Texas,TX,512
+Texas,TX,682
+Texas,TX,713
+Texas,TX,737
+Texas,TX,806
+Texas,TX,817
+Texas,TX,830
+Texas,TX,832
+Texas,TX,903
+Texas,TX,915
+Texas,TX,936
+Texas,TX,940
+Texas,TX,956
+Texas,TX,972
+Texas,TX,979
+Utah,UT,385
+Utah,UT,435
+Utah,UT,801
+Vermont,VT,802
+Virginia,VA,276
+Virginia,VA,434
+Virginia,VA,540
+Virginia,VA,571
+Virginia,VA,703
+Virginia,VA,757
+Virginia,VA,804
+Washington,WA,206
+Washington,WA,253
+Washington,WA,360
+Washington,WA,425
+Washington,WA,509
+West Virginia,WV,304
+West Virginia,WV,681
+Wisconsin,WI,262
+Wisconsin,WI,414
+Wisconsin,WI,534
+Wisconsin,WI,608
+Wisconsin,WI,715
+Wisconsin,WI,920
+Wyoming,WY,307
